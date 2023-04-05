@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prithvi101
 - 👀 A Tech Enthusiast, Freelancer
-- 🌱 JAVA, PYTHON, C++, JS and Much more yet to learn
+- 🌱 JAVA, JS, C++, Python and Much more yet to learn
 
 
 
