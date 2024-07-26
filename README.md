@@ -1,4 +1,4 @@
-I am Prithvi a  Fullstack Developer with expertise in React.js for frontend and backend development. Proficient in building robust and scalable applications. Strong skills in JavaScript, HTML, CSS, and server-side technologies.
+I am Prithvi a  Fullstack Developer with expertise in frontend and backend development. Proficient in building robust and scalable applications. Strong skills in ReactNaitve,Node,React,NextJS and other server-side technologies.
 
 
 [![Next][Next.js]][Next-url]  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
